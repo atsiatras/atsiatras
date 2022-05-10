@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angelos Tsiatras
-- 👀 I’m interested in coding using Javascript, PHP, C#
-- 📫 How to reach me tsiatras@hotmail.com
+- 👀 I’m interested in coding using Javascript, PHP and C#
+- 📫 How to reach me: tsiatras@hotmail.com
 
 <!---
 atsiatras/atsiatras is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
