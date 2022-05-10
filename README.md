@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Angelos Tsiatras
-- 👀 I’m interested in coding using Javascript, PHP and C#
+- 👋 Hi, I’m Angelos Tsiatras.
+- 👀 I’m interested in coding using Javascript, PHP and C#.
 - 📫 How to reach me: tsiatras@hotmail.com
 
 <!---
